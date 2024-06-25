@@ -1,1 +1,1 @@
-# stock-data-scraping-analysis-and-prediction
+# Stock Data Analysis

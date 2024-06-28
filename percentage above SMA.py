@@ -1,10 +1,12 @@
 import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
+import sys
 
-index_name = "SPY"
-sma_period = 20
-index_list = pd.read_csv(f"{index_name}.csv")
+index_name = sys.argv[1]
+sma_period = sys.argv[2]
+
+index_list = pd.read_csv(f"https://raw.githubusercontent.com/jiahualihuanahuan/stock-data-scraping-analysis-and-prediction/main/{index_name}.csv")
 
 def get_stock_data(stock_symbol, period, interval):
     """

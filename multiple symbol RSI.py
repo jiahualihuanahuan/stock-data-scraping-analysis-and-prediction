@@ -4,13 +4,17 @@ from ta.utils import dropna
 import matplotlib.pyplot as plt
 from ta.momentum import RSIIndicator
 import pandas as pd
+import sys
+
+etf_name = sys.argv[1]
+threshold = sys.argv[2]
 
 # multiple symbols' RSI
 # etf_list = [""]
-etf_list = pd.read_csv("https://raw.githubusercontent.com/jiahualihuanahuan/stock-data-scraping-analysis-and-prediction/main/CADETF.csv", encoding='latin-1')
+etf_list = pd.read_csv(f"https://raw.githubusercontent.com/jiahualihuanahuan/stock-data-scraping-analysis-and-prediction/main/{etf_name}.csv") # , encoding='latin-1' 
 RSI = []
 
-for symbol in etf_list.Symbol:
+for symbol in etf_list.Symbol: # ["Symbol"]
     indicator = "RSI"
     print(symbol)
     try:
@@ -18,7 +22,7 @@ for symbol in etf_list.Symbol:
         # Add ta features filling NaN values
         data.columns = ["Open", "High", "Low", "Close", "Adj_Close", "Volume"]
         data[f"{indicator}"] = RSIIndicator(close=data["Adj_Close"]).rsi()
-        if data[ f"{indicator}"].iloc[-1] < 40:
+        if data[ f"{indicator}"].iloc[-1] < int(threshold):
             RSI.append([f"{symbol}",f"{data[f"{indicator}"].iloc[-1]}"])
             
             fig, ax1 = plt.subplots(figsize=(10, 5), dpi=120) 
@@ -48,4 +52,5 @@ for symbol in etf_list.Symbol:
 
 RSI_df = pd.DataFrame(RSI)
 RSI_df.columns = ["Symbol","RSI"]
-RSI_df.sort_values(by="RSI")
+print(RSI_df.sort_values(by="RSI"))
+RSI_df.sort_values(by="RSI").to_csv(f"{etf_name}_RSI.csv")

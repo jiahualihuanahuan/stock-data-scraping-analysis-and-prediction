@@ -45,12 +45,11 @@ for symbol in etf_list.Symbol: # ["Symbol"]
             plt.title(f"{indicator} of {symbol}")
             plt.savefig(f'{indicator} of {symbol}.png') 
             plt.show()
-            
-
     except:
-        print(f"{symbol} error, not screened")
+        print(f"{symbol} not available")
+            
 
 RSI_df = pd.DataFrame(RSI)
 RSI_df.columns = ["Symbol","RSI"]
 print(RSI_df.sort_values(by="RSI"))
-RSI_df.sort_values(by="RSI").to_csv(f"{etf_name}_RSI.csv")
+RSI_df.sort_values(by="RSI").to_csv("RSI.csv")

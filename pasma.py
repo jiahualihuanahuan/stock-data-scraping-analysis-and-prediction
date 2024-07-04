@@ -2,12 +2,20 @@ import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
 import sys
+import matplotlib.pyplot as plt
+
+"""
+to run this script:
+python pasma.py QQQ 20 1y 1d
+"""
 
 index_name = sys.argv[1]
 sma_period = int(sys.argv[2])
+period = sys.argv[3]
+interval = sys.argv[4]
 
+# index_list = pd.read_csv(f"https://raw.githubusercontent.com/jiahualihuanahuan/stock-data-scraping-analysis-and-prediction/main/{index_name}.csv")
 index_list = pd.read_csv(f"https://raw.githubusercontent.com/jiahualihuanahuan/stock-data-scraping-analysis-and-prediction/main/{index_name}.csv")
-
 def get_stock_data(stock_symbol, period, interval):
     """
     function to get stock historical data using yfinance library
@@ -39,11 +47,13 @@ def percentage_above_SMA(stock_list, sma, period, interval):
 
 # Percentage of stocks above 50 SMA (one of the Market Breadth indicator)
 
-import matplotlib.pyplot as plt
+pasma = percentage_above_SMA(index_list.Symbol, sma=sma_period, period=period, interval=interval)
+print(f"current Market Breadth: there are {pasma.iloc[-1]}% stocks in {index_name} is above {sma_period} day Simple Moving Average")
+
 fig, ax1 = plt.subplots(figsize=(16,6))
 
 # Plotting the first set of data on the first y-axis
-ax1.plot(percentage_above_SMA(index_list.Symbol, sma=sma_period, period="2y", interval="1d"), 'g-', label=f"Percentage of stocks above {sma_period} SMA")
+ax1.plot(pasma, 'g-', label=f"Percentage of stocks above {sma_period} SMA")
 ax1.set_xlabel("Date")
 ax1.set_ylabel(f"Percentage of stocks above {sma_period} SMA")
 ax1.tick_params(axis='y', labelcolor='g')
@@ -54,7 +64,7 @@ ax1.axhline(y=20, color="g")
 
 # Creating a second y-axis
 ax2 = ax1.twinx()
-ax2.plot(get_stock_data(f"{index_name}", period="2y", interval="1d")["Adj_Close"], 'b-', label=f'{index_name}')
+ax2.plot(get_stock_data(f"{index_name}", period=period, interval=interval)["Adj_Close"], 'b-', label=f'{index_name}')
 ax2.set_ylabel(f'{index_name}', color='b')
 ax2.tick_params(axis='y', labelcolor='b')
 
@@ -63,5 +73,5 @@ fig.tight_layout()
 fig.legend(loc='upper left', bbox_to_anchor=(0.1,0.9))
 # title
 plt.title(f"{index_name} Percentage of stocks above {sma_period} SMA")
-plt.show()
 plt.savefig(f'{index_name} Percentage of stocks above {sma_period} SMA.png') 
+plt.show()

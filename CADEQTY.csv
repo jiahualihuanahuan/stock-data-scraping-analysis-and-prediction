@@ -1,0 +1,508 @@
+Symbol,Name
+MSFT.NE,Microsoft Corporation
+AAPL.NE,Apple Inc.
+NVDA.NE,NVIDIA Corporation
+GOOG.NE,Alphabet Inc.
+AMZN.NE,"Amazon.com, Inc."
+META.NE,"Meta Platforms, Inc."
+BRK.NE,Berkshire Hathaway Inc.
+AVGO.NE,Broadcom Inc.
+LLY.NE,Eli Lilly and Company
+TSLA.NE,"Tesla, Inc."
+JPM.NE,JPMorgan Chase & Co.
+WMT.NE,Walmart Inc.
+VISA.NE,Visa Inc.
+XOM.NE,Exxon Mobil Corporation
+UNH.NE,UnitedHealth Group Incorporated
+MA.NE,Mastercard Incorporated
+COST.NE,Costco Wholesale Corporation
+PG.NE,The Procter & Gamble Company
+JNJ.NE,JOHNSON & JOHNSON CDR (CAD HEDG
+HD.NE,"The Home Depot, Inc."
+BOFA.NE,Bank of America Corporation
+ABBV.NE,AbbVie Inc.
+NFLX.NE,"Netflix, Inc."
+CHEV.NE,Chevron Corporation
+COLA.NE,The Coca-Cola Company
+AMD.NE,"Advanced Micro Devices, Inc."
+CRM.NE,"Salesforce, Inc."
+ADBE.NE,Adobe Inc.
+TMO.NE,Thermo Fisher Scientific Inc.
+CSCO.NE,"Cisco Systems, Inc."
+MCDS.NE,McDonald's Corporation
+DIS.NE,The Walt Disney Company
+VZ.NE,Verizon Communications Inc.
+NOWS.NE,"ServiceNow, Inc."
+CATR.NE,Caterpillar Inc.
+IBM.NE,International Business Machines Corporation
+PFE.NE,Pfizer Inc.
+RY.TO,Royal Bank of Canada
+GS.NE,"The Goldman Sachs Group, Inc."
+UBER.NE,"Uber Technologies, Inc."
+HON.NE,Honeywell International Inc.
+RTX.NE,RTX Corporation
+INTC.NE,Intel Corporation
+CITI.NE,Citigroup Inc.
+UPS.NE,"United Parcel Service, Inc."
+BLK.NE,BLACKROCK CDR (CAD HEDGED)
+NKE.NE,"NIKE, Inc."
+BA.NE,The Boeing Company
+PANW.NE,PALO ALTO NETWORKS CDR (CAD HED
+TD-PFB.TO,The Toronto-Dominion Bank
+TD-PFI.TO,The Toronto-Dominion Bank
+TD-PFM.TO,The Toronto-Dominion Bank
+TD.TO,The Toronto-Dominion Bank
+TD-PFD.TO,The Toronto-Dominion Bank
+DEER.NE,DEERE CDR (CAD HEDGED)
+SBUX.NE,Starbucks Corporation
+ENB-PY.TO,Enbridge Inc.
+SHOP.TO,Shopify Inc.
+ENB-PJ.TO,Enbridge Inc.
+ENB-PP.TO,Enbridge Inc.
+ENB-PFV.TO,Enbridge Inc.
+ENB-PFA.TO,Enbridge Inc.
+CNQ.TO,Canadian Natural Resources Limited
+ENB-PFC.TO,Enbridge Inc.
+ENB.TO,Enbridge Inc.
+TRI.TO,Thomson Reuters Corporation
+CNR.TO,Canadian National Railway Company
+ENB-PFG.TO,Enbridge Inc.
+CP.TO,Canadian Pacific Kansas City Limited
+CVS.NE,CVS Health Corporation
+BN.TO,Brookfield Corporation
+PYPL.NE,"PayPal Holdings, Inc."
+CSU.TO,Constellation Software Inc.
+ENB-PFU.TO,Enbridge Inc.
+ENB-PV.TO,Enbridge Inc.
+BNS.TO,The Bank of Nova Scotia
+TRP-PB.TO,TC Energy Corporation
+TRP-PF.TO,TC Energy Corporation
+ATD.TO,Alimentation Couche-Tard Inc.
+BMO.TO,Bank of Montreal
+TRP-PC.TO,TC Energy Corporation
+SMCI.NE,"Super Micro Computer, Inc."
+NGT.TO,Newmont Corporation
+SU.TO,Suncor Energy Inc.
+BCE-PN.TO,BCE Inc.
+BCE-PL.TO,BCE Inc.
+MFC.TO,Manulife Financial Corporation
+BCE-PT.TO,BCE Inc.
+BMO-PW.TO,Bank of Montreal
+BCE-PZ.TO,BCE Inc.
+BCE-PM.TO,BCE Inc.
+WCN.TO,"Waste Connections, Inc."
+BMO-PE.TO,Bank of Montreal
+MFC-PL.TO,Manulife Financial Corporation
+BCE-PS.TO,BCE Inc.
+BCE-PB.TO,BCE Inc.
+STZ.NE,"Constellation Brands, Inc."
+BCE-PH.TO,BCE Inc.
+BMO-PY.TO,Bank of Montreal
+BCE-PJ.TO,BCE Inc.
+BCE-PD.TO,BCE Inc.
+BCE-PE.TO,BCE Inc.
+TRP-PA.TO,TC Energy Corporation
+BCE-PY.TO,BCE Inc.
+BCE-PF.TO,BCE Inc.
+MFC-PK.TO,Manulife Financial Corporation
+BCE-PK.TO,BCE Inc.
+MFC-PN.TO,Manulife Financial Corporation
+BCE-PQ.TO,BCE Inc.
+BCE-PG.TO,BCE Inc.
+CM-PQ.TO,Canadian Imperial Bank of Commerce
+BCE-PA.TO,BCE Inc.
+MFC-PF.TO,Manulife Financial Corporation
+BCE-PC.TO,BCE Inc.
+MFC-PJ.TO,Manulife Financial Corporation
+BCE-PR.TO,BCE Inc.
+TRP.TO,TC Energy Corporation
+LULU.NE,LULULEMON CDR (CAD HEDGED)
+IMO.TO,Imperial Oil Limited
+CVE.TO,Cenovus Energy Inc.
+L.TO,Loblaw Companies Limited
+CM-PY.TO,Canadian Imperial Bank of Commerce
+AEM.TO,Agnico Eagle Mines Limited
+TD-PFE.TO,The Toronto-Dominion Bank PFD SER 9 3.7%
+TD-PFA.TO,The Toronto-Dominion Bank 5 YR RST PFD 1
+QSR.TO,Restaurant Brands International Inc.
+TD-PFC.TO,The Toronto-Dominion Bank PFD SER 5
+MFC-PC.TO,Manulife Financial Corporation
+ABX.TO,Barrick Gold Corporation
+IFC.TO,Intact Financial Corporation
+SLF-PK.TO,Sun Life Financial Inc.
+SLF-PJ.TO,Sun Life Financial Inc.
+SLF-PH.TO,Sun Life Financial Inc.
+SLF-PG.TO,Sun Life Financial Inc.
+BCE.TO,BCE Inc.
+SLF.TO,Sun Life Financial Inc.
+NA.TO,National Bank of Canada
+GWO.TO,Great-West Lifeco Inc.
+FFH.TO,Fairfax Financial Holdings Limited
+DOL.TO,Dollarama Inc.
+TECK-A.TO,Teck Resources Limited
+TECK-B.TO,Teck Resources Limited
+NTR.TO,Nutrien Ltd.
+WPM.TO,Wheaton Precious Metals Corp.
+ENB-PFE.TO,Russell Australia High Dividend
+PPL-PA.TO,Pembina Pipeline Corporation
+PPL-PO.TO,Pembina Pipeline Corporation
+FNV.TO,Franco-Nevada Corporation
+QSP-UN.TO,Restaurant Brands International Limited Partnership
+GIB-A.TO,CGI Inc.
+PPL-PG.TO,Pembina Pipeline Corporation
+PPL-PE.TO,Pembina Pipeline Corporation
+T.TO,TELUS Corporation
+PPL-PC.TO,Pembina Pipeline Corporation
+GWO-PN.TO,Great-West Lifeco Inc.
+CCO.TO,Cameco Corporation
+PPL.TO,Pembina Pipeline Corporation
+PPL-PI.TO,Pembina Pipeline Corporation
+PPL-PQ.TO,Pembina Pipeline Corporation
+CM.TO,Canadian Imperial Bank of Commerce
+FTS-PI.TO,Fortis Inc.
+NA-PS.TO,National Bank of Canada
+SLF-PE.TO,Sun Life Financial Inc.
+SLF-PC.TO,Sun Life Financial Inc.
+SLF-PD.TO,Sun Life Financial Inc.
+PPL-PS.TO,Pembina Pipeline Corporation
+FTS-PM.TO,Fortis Inc.
+FTS-PH.TO,Fortis Inc.
+WSP.TO,WSP Global Inc.
+RCI-B.TO,Rogers Communications Inc.
+RCI-A.TO,Rogers Communications Inc.
+WN.TO,George Weston Limited
+FTS.TO,Fortis Inc.
+NA-PE.TO,National Bank of Canada
+NA-PG.TO,National Bank of Canada
+NA-PC.TO,National Bank of Canada
+POW.TO,Power Corporation of Canada
+FFH-PF.TO,Fairfax Financial Holdings Limited
+GWO-PQ.TO,Great-West Lifeco Inc.
+FFH-PE.TO,Fairfax Financial Holdings Limited
+GWO-PT.TO,Great-West Lifeco Inc.
+GWO-PI.TO,Great-West Lifeco Inc.
+GWO-PS.TO,Great-West Lifeco Inc.
+H.TO,Hydro One Limited
+FFH-PD.TO,Fairfax Financial Holdings Limited
+IVN.TO,Ivanhoe Mines Ltd.
+BEP-UN.TO,Brookfield Renewable Partners L.P.
+FFH-PH.TO,Fairfax Financial Holdings Limited
+FFH-PC.TO,Fairfax Financial Holdings Limited
+FFH-PG.TO,Fairfax Financial Holdings Limited
+FFH-PJ.TO,Fairfax Financial Holdings Limited
+FFH-PI.TO,Fairfax Financial Holdings Limited
+L-PB.TO,Loblaw Companies Limited
+TOU.TO,Tourmaline Oil Corp.
+FFH-PK.TO,Fairfax Financial Holdings Limited
+FFH-PM.TO,Fairfax Financial Holdings Limited
+BAM.TO,Brookfield Asset Management Ltd.
+FTS-PJ.TO,Fortis Inc.
+FTS-PF.TO,Fortis Inc.
+GFL.TO,GFL Environmental Inc.
+IFC-PG.TO,Intact Financial Corporation
+RBA.TO,"RB Global, Inc."
+BIP-UN.TO,Brookfield Infrastructure Partners L.P.
+MRU.TO,Metro Inc.
+OVV.TO,Ovintiv Inc.
+TFII.TO,TFI International Inc.
+MG.TO,Magna International Inc.
+FM.TO,First Quantum Minerals Ltd.
+IFC-PE.TO,Intact Financial Corporation
+EMA-PC.TO,Emera Incorporated
+ARX.TO,ARC Resources Ltd.
+EMA-PF.TO,Emera Incorporated
+EMA-PA.TO,Emera Incorporated
+BEP-PG.TO,Brookfield Renewable Partners L.P.
+K.TO,Kinross Gold Corporation
+WN-PA.TO,George Weston Limited
+BEP-PM.TO,Brookfield Renewable Partners L.P.
+STN.TO,Stantec Inc.
+WN-PE.TO,George Weston Limited
+WN-PC.TO,George Weston Limited
+WN-PD.TO,George Weston Limited
+SAP.TO,Saputo Inc.
+EMA.TO,Emera Incorporated
+CCL-B.TO,CCL Industries Inc.
+EMA-PH.TO,Emera Incorporated
+LUN.TO,Lundin Mining Corporation
+DSG.TO,The Descartes Systems Group Inc.
+OTEX.TO,Open Text Corporation
+DAY.TO,Dayforce Inc
+X.TO,TMX Group Limited
+PAAS.TO,Pan American Silver Corp.
+ATRL.TO,AtkinsRéalis Group Inc.
+TOI.V,Topicus.com Inc.
+TIH.TO,Toromont Industries Ltd.
+LMN.V,Lumine Group Inc.
+EFN.TO,Element Fleet Management Corp.
+BIP-PB.TO,Brookfield Infrastructure Partners L.P.
+CLS.TO,Celestica Inc.
+FSV.TO,FirstService Corporation
+CHP-UN.TO,Choice Properties Real Estate Investment Trust
+BBD-PD.TO,Bombardier Inc.
+ALA.TO,AltaGas Ltd.
+CU-PI.TO,Canadian Utilities Limited
+IGM.TO,IGM Financial Inc.
+BIP-PE.TO,Brookfield Infrastructure Partners L.P.
+GIL.TO,Gildan Activewear Inc.
+AGI.TO,Alamos Gold Inc.
+CU-PF.TO,Canadian Utilities Limited
+ALA-PG.TO,AltaGas Ltd.
+BIP-PA.TO,Brookfield Infrastructure Partners L.P.
+CU-PE.TO,Canadian Utilities Limited
+CU-PH.TO,Canadian Utilities Limited
+KEY.TO,Keyera Corp.
+BBD-PB.TO,Bombardier Inc.
+EMP-A.TO,Empire Company Limited
+BNRE.TO,Brookfield Reinsurance Ltd.
+BNRE-A.TO,BROOKFIELD REINSURANCE LTD NV
+BBD-A.TO,Bombardier Inc.
+BBD-B.TO,Bombardier Inc.
+IAG.TO,iA Financial Corporation Inc.
+WFG.TO,West Fraser Timber Co. Ltd.
+BIP-PF.TO,Brookfield Infrastructure Partners L.P.
+CAE.TO,CAE Inc.
+MEG.TO,MEG Energy Corp.
+CIGI.TO,Colliers International Group Inc.
+CTC-A.TO,"Canadian Tire Corporation, Limited"
+CTC.TO,"Canadian Tire Corporation, Limited"
+CS.TO,Capstone Copper Corp.
+ONEX.TO,Onex Corporation
+CAR-UN.TO,Canadian Apartment Properties Real Estate Investment Trust
+EDV.TO,Endeavour Mining plc
+BEPC.TO,Brookfield Renewable Corporation
+BLCO.TO,Bausch + Lomb Corporation
+SCR.TO,Strathcona Resources Ltd.
+VRN.TO,Veren Inc.
+QBR-B.TO,Quebecor Inc.
+IAF-PB.TO,iA Financial Corporation Inc.
+QBR-A.TO,Quebecor Inc.
+PKI.TO,Parkland Corporation
+DOO.TO,BRP Inc.
+PSK.TO,PrairieSky Royalty Ltd.
+AC.TO,Air Canada
+CEF.TO,Sprott Physical Gold and Silver Trust
+PVF-UN.V,Partners Value Investments LP
+NVEI.TO,Nuvei Corporation
+BIPC.TO,Brookfield Infrastructure Corporation
+WCP.TO,Whitecap Resources Inc.
+CU.TO,Canadian Utilities Limited
+NPI.TO,Northland Power Inc.
+FTT.TO,Finning International Inc.
+AQN.TO,Algonquin Power & Utilities Corp.
+BYD.TO,Boyd Group Services Inc.
+GLXY.TO,Galaxy Digital Holdings Ltd.
+NXE.TO,NexGen Energy Ltd.
+EFN-PC.TO,Element Fleet Management Corp.
+BBD-PC.TO,Bombardier Inc.
+HBM.TO,Hudbay Minerals Inc.
+REI-UN.TO,RioCan Real Estate Investment Trust
+DFY.TO,Definity Financial Corporation
+CPX.TO,Capital Power Corporation
+SJ.TO,Stella-Jones Inc.
+LUG.TO,Lundin Gold Inc.
+BTO.TO,B2Gold Corp.
+PRMW.TO,Primo Water Corporation
+POU.TO,Paramount Resources Ltd.
+KXS.TO,Kinaxis Inc.
+MX.TO,Methanex Corporation
+ACO-X.TO,ATCO Ltd.
+TFPM.TO,Triple Flag Precious Metals Corp.
+ACO-Y.TO,ATCO Ltd.
+ELD.TO,Eldorado Gold Corporation
+GRT-UN.TO,Granite Real Estate Investment Trust
+CWB.TO,Canadian Western Bank
+PBH.TO,Premium Brands Holdings Corporation
+ATS.TO,ATS Corporation
+ATZ.TO,Aritzia Inc.
+LNR.TO,Linamar Corporation
+OR.TO,Osisko Gold Royalties Ltd
+BTE.TO,Baytex Energy Corp.
+CURA.TO,"Curaleaf Holdings, Inc."
+BEI-UN.TO,Boardwalk Real Estate Investment Trust
+SRU-UN.TO,SmartCentres Real Estate Investment Trust
+ELF.TO,E-L Financial Corporation Limited
+GEI.TO,Gibson Energy Inc.
+GTII.CN,Green Thumb Industries Inc.
+DIR-UN.TO,Dream Industrial Real Estate Investment Trust
+EQB.TO,EQB Inc.
+TPZ.TO,Topaz Energy Corp.
+CSH-UN.TO,Chartwell Retirement Residences
+FIL.TO,Filo Corp.
+CGG.TO,China Gold International Resources Corp. Ltd.
+BLX.TO,Boralex Inc.
+BHC.TO,Bausch Health Companies Inc.
+TA-PJ.TO,TransAlta Corporation
+TA-PD.TO,TransAlta Corporation
+CPX-PK.TO,Capital Power Corporation
+CWB-PB.TO,Canadian Western Bank
+ERO.TO,Ero Copper Corp.
+FCR-UN.TO,First Capital Real Estate Investment Trust
+CRT-UN.TO,CT Real Estate Investment Trust
+CIA.TO,Champion Iron Limited
+GSY.TO,goeasy Ltd.
+ATH.TO,Athabasca Oil Corporation
+IMG.TO,IAMGOLD Corporation
+TOY.TO,Spin Master Corp.
+PRU.TO,Perseus Mining Limited
+NVA.TO,NuVista Energy Ltd.
+SES.TO,Secure Energy Services Inc.
+PEY.TO,Peyto Exploration & Development Corp.
+LSPD.TO,Lightspeed Commerce Inc.
+EQX.TO,Equinox Gold Corp.
+TA.TO,TransAlta Corporation
+WPK.TO,Winpak Ltd.
+MFI.TO,Maple Leaf Foods Inc.
+CWB-PD.TO,Canadian Western Bank
+DML.TO,Denison Mines Corp.
+HR-UN.TO,H&R Real Estate Investment Trust
+CEE.TO,Centamin plc
+ELF-PH.TO,E-L Financial Corporation Limited
+VET.TO,Vermilion Energy Inc.
+AG.TO,First Majestic Silver Corp.
+EIT-UN.TO,Canoe EIT Income Fund
+IPCO.TO,International Petroleum Corporation
+OGC.TO,OceanaGold Corporation
+AIF.TO,Altus Group Limited
+TRUL.CN,Trulieve Cannabis Corp.
+CRR-UN.TO,Crombie Real Estate Investment Trust
+SSL.TO,Sandstorm Gold Ltd.
+CJT.TO,Cargojet Inc.
+NGD.TO,New Gold Inc.
+RCH.TO,Richelieu Hardware Ltd.
+CIX.TO,CI Financial Corp.
+PXT.TO,Parex Resources Inc.
+RUS.TO,Russel Metals Inc.
+CCA.TO,Cogeco Communications Inc.
+INE.TO,Innergex Renewable Energy Inc.
+FN.TO,First National Financial Corporation
+FVI.TO,Fortuna Mining Corp.
+SPB.TO,Superior Plus Corp.
+TIXT.TO,TELUS International (Cda) Inc.
+EIF.TO,Exchange Income Corporation
+TVE.TO,Tamarack Valley Energy Ltd.
+KMP-UN.TO,Killam Apartment REIT
+FRU.TO,Freehold Royalties Ltd.
+BB.TO,BlackBerry Limited
+AP-UN.TO,Allied Properties Real Estate Investment Trust
+DPM.TO,Dundee Precious Metals Inc.
+NWC.TO,The North West Company Inc.
+STLC.TO,Stelco Holdings Inc.
+FIH-U.TO,Fairfax India Holdings Corporation
+TLRY.TO,"Tilray Brands, Inc."
+ARTG.V,Artemis Gold Inc.
+TSU.TO,Trisura Group Ltd.
+CG.TO,Centerra Gold Inc.
+NFI.TO,NFI Group Inc.
+BBUC.TO,Brookfield Business Corporation
+LIF.TO,Labrador Iron Ore Royalty Corporation
+KNT.TO,K92 Mining Inc.
+TXG.TO,Torex Gold Resources Inc.
+FN-PA.TO,First National Financial Corporation
+HUT.TO,Hut 8 Corp.
+SGML.V,Sigma Lithium Corporation
+AYA.TO,Aya Gold & Silver Inc.
+BBU-UN.TO,Brookfield Business Partners L.P.
+PET.TO,Pet Valu Holdings Ltd.
+WDO.TO,Wesdome Gold Mines Ltd.
+CEU.TO,CES Energy Solutions Corp.
+IIP-UN.TO,InterRent Real Estate Investment Trust
+HWX.TO,Headwater Exploration Inc.
+MAG.TO,MAG Silver Corp.
+VRNO.NE,Verano Holdings Corp.
+SIL.TO,SilverCrest Metals Inc.
+ENGH.TO,Enghouse Systems Limited
+SEA.TO,Seabridge Gold Inc.
+BIR.TO,Birchcliff Energy Ltd.
+OLA.TO,Orla Mining Ltd.
+CFP.TO,Canfor Corporation
+GOOS.TO,Canada Goose Holdings Inc.
+SVI.TO,StorageVault Canada Inc.
+INE-PA.TO,Innergex Renewable Energy Inc.
+AAV.TO,Advantage Energy Ltd.
+IE.TO,Ivanhoe Electric Inc.
+NG.TO,NovaGold Resources Inc.
+DCBO.TO,Docebo Inc.
+MDA.TO,MDA Space Ltd.
+LNF.TO,Leon's Furniture Limited
+MEQ.TO,Mainstreet Equity Corp.
+NGEX.TO,NGEx Minerals Ltd.
+DNTL.TO,dentalcorp Holdings Ltd.
+CXB.TO,Calibre Mining Corp.
+AND.TO,Andlauer Healthcare Group Inc.
+SII.TO,Sprott Inc.
+PSI.TO,Pason Systems Inc.
+BDT.TO,Bird Construction Inc.
+WTE.TO,Westshore Terminals Investment Corporation
+AFM.V,Alphamin Resources Corp.
+PD.TO,Precision Drilling Corporation
+TVK.TO,TerraVest Industries Inc.
+BITF.TO,Bitfarms Ltd.
+UNC.TO,United Corporations Limited
+TCL-A.TO,Transcontinental Inc.
+TCL-B.TO,Transcontinental Inc.
+SIS.TO,Savaria Corporation
+FOM.TO,Foran Mining Corporation
+EIT-PA.TO,Canoe EIT Income Fund
+PMZ-UN.TO,Primaris Real Estate Investment Trust
+HPS-A.TO,Hammond Power Solutions Inc.
+KEL.TO,Kelt Exploration Ltd.
+EQB-PC.TO,EQB Inc.
+JWEL.TO,Jamieson Wellness Inc.
+MRC.TO,Morguard Corporation
+WELL.TO,WELL Health Technologies Corp.
+OSK.TO,Osisko Mining Inc.
+MATR.TO,Mattr Corp.
+LB.TO,Laurentian Bank of Canada
+KRR.TO,Karora Resources Inc.
+NWH-UN.TO,NorthWest Healthcare Properties Real Estate Investment Trust
+MTL.TO,Mullen Group Ltd.
+CMG.TO,Computer Modelling Group Ltd.
+GCG.TO,Guardian Capital Group Limited
+MTY.TO,MTY Food Group Inc.
+GCG-A.TO,Guardian Capital Group Limited
+CHE-UN.TO,Chemtrade Logistics Income Fund
+CJ.TO,Cardinal Energy Ltd.
+SIA.TO,Sienna Senior Living Inc.
+CVG.TO,Clairvest Group Inc.
+FCU.TO,Fission Uranium Corp.
+LAS-A.TO,Lassonde Industries Inc.
+ASTL.TO,Algoma Steel Group Inc.
+TKO.TO,Taseko Mines Limited
+ALS.TO,Altius Minerals Corporation
+AFN.TO,Ag Growth International Inc.
+MMAX.CN,Metamaterial Exchangeco Inc.
+IFC-PF.TO,Intact Financial Corporation
+IFC-PI.TO,Intact Financial Corporation
+BN-PM.TO,Brookfield Corporation
+CVE-PG.TO,Cenovus Energy Inc.
+BN-PFA.TO,Brookfield Corporation
+CVE-PC.TO,Cenovus Energy Inc.
+CVE-PB.TO,Cenovus Energy Inc.
+EMA-PJ.TO,Emera Incorporated
+BN-PT.TO,Brookfield Corporation
+BN-PR.TO,Brookfield Corporation
+PPL-PFE.TO,Pembina Pipeline Corporation
+BN-PFE.TO,Brookfield Corporation
+ALA-PA.TO,AltaGas Ltd.
+CPX-PA.TO,Capital Power Corporation
+ENB-PD.TO,Enbridge Inc.
+BN-PFI.TO,Brookfield Corporation
+BN-PFC.TO,Brookfield Corporation
+BEP-PR.TO,Brookfield Renewable Partners L.P.
+TRP-PI.TO,TC Energy Corporation
+BN-PFB.TO,Brookfield Corporation
+BN-PFG.TO,Brookfield Corporation
+BN-PFL.TO,Brookfield Corporation
+GWO-PY.TO,Great-West Lifeco Inc.
+CVE-PA.TO,Cenovus Energy Inc.
+IFC-PA.TO,Intact Financial Corporation
+IFC-PK.TO,Intact Financial Corporation
+CVE-PE.TO,Cenovus Energy Inc.
+ALA-PB.TO,AltaGas Ltd.
+ALA-PH.TO,AltaGas Ltd.
+CU-PJ.TO,Canadian Utilities Limited
+BN-PFJ.TO,Brookfield Corporation
+BCE-PI.TO,BCE Inc.
+IFC-PC.TO,Intact Financial Corporation
+CM-PP.TO,Canadian Imperial Bank of Commerce

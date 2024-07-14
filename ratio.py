@@ -1,3 +1,5 @@
+# this code calculate the ratio between US stock and its Canadian CDR counterpart ratio
+
 import yfinance as yf
 from ta import add_all_ta_features
 import pandas as pd

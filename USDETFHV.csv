@@ -1,270 +1,270 @@
-Symbol,Name
-VTI,Vanguard Total Stock Market Index Fund ETF Shares
-VOO,Vanguard S&P 500 ETF
-SPY,SPDR S&P 500 ETF Trust
-IVV,iShares Core S&P 500 ETF
-VXUS,Vanguard Total International Stock Index Fund ETF Shares
-BND,Vanguard Total Bond Market Index Fund
-QQQ,Invesco QQQ Trust
-VUG,Vanguard Growth Index Fund ETF Shares
-VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares
-VTV,Vanguard Value Index Fund ETF Shares
-IEFA,iShares Core MSCI EAFE ETF
-AGG,iShares Core U.S. Aggregate Bond ETF
-VWO,Vanguard Emerging Markets Stock Index Fund
-IWF,iShares Russell 1000 Growth ETF
-BNDX,Vanguard Total International Bond Index Fund
-IJH,iShares Core S&P Mid-Cap ETF
-IEMG,iShares Core MSCI Emerging Markets ETF
-IJR,iShares Core S&P Small-Cap ETF
-XLK,The Technology Select Sector SPDR Fund
-GLD,SPDR Gold Shares
-VNQ,Vanguard Real Estate Index Fund ETF Shares
-IWM,iShares Russell 2000 ETF
-BSV,Vanguard Short-Term Bond Index Fund ETF Shares
-ITOT,iShares Core S&P Total U.S. Stock Market ETF
-IWD,iShares Russell 1000 Value ETF
-VEU,Vanguard FTSE All-World ex-US Index Fund ETF Shares
-SCHD,Schwab U.S. Dividend Equity ETF
-RSP,Invesco S&P 500 Equal Weight ETF
-EFA,iShares MSCI EAFE ETF
-TLT,iShares 20+ Year Treasury Bond ETF
-IVW,iShares S&P 500 Growth ETF
-VT,Vanguard Total World Stock Index Fund ETF Shares
-VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares
-QUAL,iShares MSCI USA Quality Factor ETF
-SCHX,Schwab U.S. Large-Cap ETF
-VCSH,Vanguard Short-Term Corporate Bond Index Fund ETF Shares
-SPLG,SPDR Portfolio S&P 500 ETF
-XLV,The Health Care Select Sector SPDR Fund
-XLF,The Financial Select Sector SPDR Fund
-XLE,The Energy Select Sector SPDR Fund
-SCHF,Schwab International Equity ETF
-MUB,iShares National Muni Bond ETF
-IWR,iShares Russell Mid-Cap ETF
-IXUS,iShares Core MSCI Total International Stock ETF
-VTEB,Vanguard Tax-Exempt Bond Index Fund ETF Shares
-VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares
-JEPI,JPMorgan Equity Premium Income ETF
-BIL,SPDR Bloomberg 1-3 Month T-Bill ETF
-DIA,SPDR Dow Jones Industrial Average ETF Trust
-MBB,iShares MBS ETF
-SCHG,Schwab U.S. Large-Cap Growth ETF
-LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF
-IEF,iShares 7-10 Year Treasury Bond ETF
-QQQM,Invesco NASDAQ 100 ETF
-SPYG,SPDR Portfolio S&P 500 Growth ETF
-DFAC,Dimensional U.S. Core Equity 2 ETF
-IUSB,iShares Core Total USD Bond Market ETF
-IAU,iShares Gold Trust
-DGRO,iShares Core Dividend Growth ETF
-GOVT,iShares U.S. Treasury Bond ETF
-VGK,Vanguard FTSE Europe ETF
-JPST,JPMorgan Ultra-Short Income ETF
-VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares
-SHY,iShares 1-3 Year Treasury Bond ETF
-USMV,iShares MSCI USA Min Vol Factor ETF
-TQQQ,ProShares UltraPro QQQ
-COWZ,Pacer US Cash Cows 100 ETF
-SMH,VanEck Semiconductor ETF
-SGOV,iShares 0-3 Month Treasury Bond ETF
-SPYV,SPDR Portfolio S&P 500 Value ETF
-IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF
-SPDW,SPDR Portfolio Developed World ex-US ETF
-XLY,The Consumer Discretionary Select Sector SPDR Fund
-SHV,iShares Short Treasury Bond ETF
-EEM,iShares MSCI Emerging Markets ETF
-VMBS,Vanguard Mortgage-Backed Securities Index Fund ETF Shares
-XLC,The Communication Services Select Sector SPDR Fund
-ACWI,iShares MSCI ACWI ETF
-IBIT,iShares Bitcoin Trust
-XLI,The Industrial Select Sector SPDR Fund
-USFR,WisdomTree Floating Rate Treasury Fund
-TIP,iShares TIPS Bond ETF
-VGLT,Vanguard Long-Term Treasury Index Fund ETF Shares
-HYG,iShares iBoxx $ High Yield Corporate Bond ETF
-GBTC,Grayscale Bitcoin Trust ETF (BTC)
-EWJ,iShares MSCI Japan ETF
-XLP,The Consumer Staples Select Sector SPDR Fund
-JEPQ,JPMorgan Nasdaq Equity Premium Income ETF
-SOXX,iShares Semiconductor ETF
-EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF
-EFV,iShares MSCI EAFE Value ETF
-PFF,iShares Preferred and Income Securities ETF
-EMXC,iShares MSCI Emerging Markets ex China ETF
-XLU,The Utilities Select Sector SPDR Fund
-IEI,iShares 3-7 Year Treasury Bond ETF
-IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF
-USHY,iShares Broad USD High Yield Corporate Bond ETF
-GDX,VanEck Gold Miners ETF
-SLV,iShares Silver Trust
-MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund
-BBJP,JPMorgan BetaBuilders Japan ETF
-IWN,iShares Russell 2000 Value ETF
-INDA,iShares MSCI India ETF
-USIG,iShares Broad USD Investment Grade Corporate Bond ETF
-SCHP,Schwab U.S. TIPS ETF
-SOXL,Direxion Daily Semiconductor Bull 3X Shares
-JAAA,Janus Henderson AAA CLO ETF
-VCLT,Vanguard Long-Term Corporate Bond Index Fund ETF Shares
-SPSM,SPDR Portfolio S&P 600 Small Cap ETF
-FBTC,Fidelity Wise Origin Bitcoin Fund
-SPMD,SPDR Portfolio S&P 400 Mid Cap ETF
-VTWO,Vanguard Russell 2000 Index Fund ETF Shares
-SPTL,SPDR Portfolio Long Term Treasury ETF
-FBND,Fidelity Total Bond ETF
-DYNF,BlackRock U.S. Equity Factor Rotation ETF
-CALF,Pacer US Small Cap Cash Cows 100 ETF
-SPEM,SPDR Portfolio Emerging Markets ETF
-AMLP,Alerian MLP ETF
-CGDV,Capital Group Dividend Value ETF
-JNK,SPDR Bloomberg High Yield Bond ETF
-SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF
-BKLN,Invesco Senior Loan ETF
-QYLD,Global X NASDAQ 100 Covered Call ETF
-IQLT,iShares MSCI Intl Quality Factor ETF
-SPAB,SPDR Portfolio Aggregate Bond ETF
-SPSB,SPDR Portfolio Short Term Corporate Bond ETF
-EZU,iShares MSCI Eurozone ETF
-FLOT,iShares Floating Rate Bond ETF
-GLDM,SPDR Gold MiniShares
-PAVE,Global X U.S. Infrastructure Development ETF
-IBB,iShares Biotechnology ETF
-TFLO,iShares Treasury Floating Rate Bond ETF
-XBI,SPDR S&P Biotech ETF
-PULS,PGIM Ultra Short Bond ETF
-QLD,ProShares Ultra QQQ
-SPLV,Invesco S&P 500 Low Volatility ETF
-IGV,iShares Expanded Tech-Software Sector ETF
-HEFA,iShares Currency Hedged MSCI EAFE ETF
-SCHH,Schwab U.S. REIT ETF
-SRLN,SPDR Blackstone Senior Loan ETF
-DFAI,Dimensional International Core Equity Market ETF
-XLRE,The Real Estate Select Sector SPDR Fund
-SHYG,iShares 0-5 Year High Yield Corporate Bond ETF
-CGGR,Capital Group Growth ETF
-ARKK,ARK Innovation ETF
-SPTI,SPDR Portfolio Intermediate Term Treasury ETF
-EWY,iShares MSCI South Korea ETF
-SSO,ProShares Ultra S&P500
-MCHI,iShares MSCI China ETF
-XLB,The Materials Select Sector SPDR Fund
-KWEB,KraneShares CSI China Internet ETF
-EWT,iShares MSCI Taiwan ETF
-FPE,First Trust Preferred Securities and Income ETF
-PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF
-XLG,Invesco S&P 500 Top 50 ETF
-TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares
-GDXJ,VanEck Junior Gold Miners ETF
-NVDL,GraniteShares 2x Long NVDA Daily ETF
-SPHY,SPDR Portfolio High Yield Bond ETF
-SJNK,SPDR Bloomberg Short Term High Yield Bond ETF
-SPXL,Direxion Daily S&P500 Bull 3X Shares
-FXI,iShares China Large-Cap ETF
-ACWX,iShares MSCI ACWI ex U.S. ETF
-SPTS,SPDR Portfolio Short Term Treasury ETF
-EWZ,iShares MSCI Brazil ETF
-PGX,Invesco Preferred ETF
-TBIL,US Treasury 3 Month Bill ETF
-FEZ,SPDR EURO STOXX 50 ETF
-EPI,WisdomTree India Earnings Fund
-TECL,Direxion Daily Technology Bull 3X Shares
-UPRO,ProShares UltraPro S&P500
-XOP,SPDR S&P Oil & Gas Exploration & Production ETF
-URA,Global X Uranium ETF
-HYLB,Xtrackers USD High Yield Corporate Bond ETF
-SGOL,abrdn Physical Gold Shares ETF
-ANGL,VanEck Fallen Angel High Yield Bond ETF
-IYR,iShares U.S. Real Estate ETF
-EWU,iShares MSCI United Kingdom ETF
-SQQQ,ProShares UltraPro Short QQQ
-ARKB,ARK 21Shares Bitcoin ETF
-ITB,iShares U.S. Home Construction ETF
-KRE,SPDR S&P Regional Banking ETF
-COPX,Global X Copper Miners ETF
-EWC,iShares MSCI Canada ETF
-IXC,iShares Global Energy ETF
-BITB,Bitwise Bitcoin ETF
-ICLN,iShares Global Clean Energy ETF
-TNA,Direxion Daily Small Cap Bull 3X Shares
-XME,SPDR S&P Metals and Mining ETF
-EWW,iShares MSCI Mexico ETF
-BITO,ProShares Bitcoin Strategy ETF
-DBC,Invesco DB Commodity Index Tracking Fund
-ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF
-XHB,SPDR S&P Homebuilders ETF
-EWA,iShares MSCI Australia ETF
-KBE,SPDR S&P Bank ETF
-ILF,iShares Latin America 40 ETF
-SIVR,abrdn Physical Silver Shares ETF
-BITX,2x Bitcoin Strategy ETF
-TSLL,Direxion Daily TSLA Bull 2X Shares
-ARKG,ARK Genomic Revolution ETF
-USO,"United States Oil Fund, LP"
-IAUM,iShares Gold Trust Micro
-JETS,U.S. Global Jets ETF
-LABU,Direxion Daily S&P Biotech Bull 3X Shares
-OUNZ,VanEck Merk Gold Trust
-TAN,Invesco Solar ETF
-EWG,iShares MSCI Germany ETF
-SILJ,Amplify Junior Silver Miners ETF
-MSOS,AdvisorShares Pure US Cannabis ETF
-SH,ProShares Short S&P500
-YINN,Direxion Daily FTSE China Bull 3X Shares
-DPST,Direxion Daily Regional Banks Bull 3X Shares
-BAR,GraniteShares Gold Trust
-SOXS,Direxion Daily Semiconductor Bear 3X Shares
-NVDY,YieldMax NVDA Option Income Strategy ETF
-AAAU,Goldman Sachs Physical Gold ETF
-UNG,"United States Natural Gas Fund, LP"
-UDOW,ProShares UltraPro Dow30
-CONY,YieldMax COIN Option Income Strategy ETF
-AGQ,ProShares Ultra Silver
-FXN,First Trust Energy AlphaDEX Fund
-SPXU,ProShares UltraPro Short S&P500
-NUGT,Direxion Daily Gold Miners Index Bull 2X Shares
-UCO,ProShares Ultra Bloomberg Crude Oil
-SDS,ProShares UltraShort S&P500
-PSQ,ProShares Short QQQ
-SPXS,Direxion Daily S&P 500 Bear 3X Shares
-CONL,GraniteShares 2x Long COIN Daily ETF
-EWH,iShares MSCI Hong Kong ETF
-BOIL,ProShares Ultra Bloomberg Natural Gas
-XRT,SPDR S&P Retail ETF
-TZA,Direxion Daily Small Cap Bear 3X Shares
-TSLT,T-Rex 2X Long Tesla Daily Target ETF
-SDOW,ProShares UltraPro Short Dow30
-SVXY,ProShares Short VIX Short-Term Futures ETF
-VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN
-JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares
-QID,ProShares UltraShort QQQ
-UVXY,ProShares Ultra VIX Short-Term Futures ETF
-TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares
-MJ,Amplify Alternative Harvest ETF
-RWM,ProShares Short Russell2000
-SCO,ProShares UltraShort Bloomberg Crude Oil
-DOG,ProShares Short Dow30
-YANG,Direxion Daily FTSE China Bear 3X Shares
-SPDN,Direxion Daily S&P 500 Bear 1X Shares
-KOLD,ProShares UltraShort Bloomberg Natural Gas
-VIXY,ProShares VIX Short-Term Futures ETF
-DUST,Direxion Daily Gold Miners Index Bear 2X Shares
-FAZ,Direxion Daily Financial Bear 3X Shares
-FNGD,MicroSectors FANG+ Index -3X Inverse Leveraged ETN
-SRTY,ProShares UltraPro Short Russell2000
-LABD,Direxion Daily S&P Biotech Bear 3X Shares
-TECS,Direxion Daily Technology Bear 3X Shares
-NVDS,Tradr 1.25X NVDA Bear Daily ETF
-TSLQ,Tradr TSLA Bear Daily ETF
-UVIX,2x Long VIX Futures ETF
-BITI,ProShares Short Bitcoin Strategy ETF
-NVD,Graniteshares 2x Short NVDA Daily ETF
-ZSL,ProShares UltraShort Silver
-JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares
-TWM,ProShares UltraShort Russell2000
-MSOX,Advisorshares Msos 2x Daily ETF
-TSLS,Direxion Daily TSLA Bear 1X Shares
-DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
-NVDQ,T-Rex 2X Inverse NVIDIA Daily Target ETF
-TSLZ,T-Rex 2X Inverse Tesla Daily Target ETF
-SPYU,Bank Of Montreal MAX S&P 500 4X
+Symbol
+VTI
+VOO
+SPY
+IVV
+VXUS
+BND
+QQQ
+VUG
+VEA
+VTV
+IEFA
+AGG
+VWO
+IWF
+BNDX
+IJH
+IEMG
+IJR
+XLK
+GLD
+VNQ
+IWM
+BSV
+ITOT
+IWD
+VEU
+SCHD
+RSP
+EFA
+TLT
+IVW
+VT
+VCIT
+QUAL
+SCHX
+VCSH
+SPLG
+XLV
+XLF
+XLE
+SCHF
+MUB
+IWR
+IXUS
+VTEB
+VGIT
+JEPI
+BIL
+DIA
+MBB
+SCHG
+LQD
+IEF
+QQQM
+SPYG
+DFAC
+IUSB
+IAU
+DGRO
+GOVT
+VGK
+JPST
+VGSH
+SHY
+USMV
+TQQQ
+COWZ
+SMH
+SGOV
+SPYV
+IGSB
+SPDW
+XLY
+SHV
+EEM
+VMBS
+XLC
+ACWI
+IBIT
+XLI
+USFR
+TIP
+VGLT
+HYG
+GBTC
+EWJ
+XLP
+JEPQ
+SOXX
+EMB
+EFV
+PFF
+EMXC
+XLU
+IEI
+IGIB
+USHY
+GDX
+SLV
+MINT
+BBJP
+IWN
+INDA
+USIG
+SCHP
+SOXL
+JAAA
+VCLT
+SPSM
+FBTC
+SPMD
+VTWO
+SPTL
+FBND
+DYNF
+CALF
+SPEM
+AMLP
+CGDV
+JNK
+SPIB
+BKLN
+QYLD
+IQLT
+SPAB
+SPSB
+EZU
+FLOT
+GLDM
+PAVE
+IBB
+TFLO
+XBI
+PULS
+QLD
+SPLV
+IGV
+HEFA
+SCHH
+SRLN
+DFAI
+XLRE
+SHYG
+CGGR
+ARKK
+SPTI
+EWY
+SSO
+MCHI
+XLB
+KWEB
+EWT
+FPE
+PDBC
+XLG
+TMF
+GDXJ
+NVDL
+SPHY
+SJNK
+SPXL
+FXI
+ACWX
+SPTS
+EWZ
+PGX
+TBIL
+FEZ
+EPI
+TECL
+UPRO
+XOP
+URA
+HYLB
+SGOL
+ANGL
+IYR
+EWU
+SQQQ
+ARKB
+ITB
+KRE
+COPX
+EWC
+IXC
+BITB
+ICLN
+TNA
+XME
+EWW
+BITO
+DBC
+ASHR
+XHB
+EWA
+KBE
+ILF
+SIVR
+BITX
+TSLL
+ARKG
+USO
+IAUM
+JETS
+LABU
+OUNZ
+TAN
+EWG
+SILJ
+MSOS
+SH
+YINN
+DPST
+BAR
+SOXS
+NVDY
+AAAU
+UNG
+UDOW
+CONY
+AGQ
+FXN
+SPXU
+NUGT
+UCO
+SDS
+PSQ
+SPXS
+CONL
+EWH
+BOIL
+XRT
+TZA
+TSLT
+SDOW
+SVXY
+VXX
+JNUG
+QID
+UVXY
+TMV
+MJ
+RWM
+SCO
+DOG
+YANG
+SPDN
+KOLD
+VIXY
+DUST
+FAZ
+FNGD
+SRTY
+LABD
+TECS
+NVDS
+TSLQ
+UVIX
+BITI
+NVD
+ZSL
+JDST
+TWM
+MSOX
+TSLS
+DRIP
+NVDQ
+TSLZ
+SPYU
